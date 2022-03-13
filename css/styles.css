@@ -66,12 +66,15 @@ ul {
 }
 
 .homepage-logo {
-  padding-top: 24px;
-  padding-bottom: 24px;
   font-family: "Raleway", sans-serif;
   color: var(--hover-color);
   font-weight: bold;
   font-size: 26px;
+}
+
+.nav-list .homepage-logo {
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .logo-span {
